@@ -17,5 +17,5 @@ At Video SDK, we’re building tools to help companies create world-class collab
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
 
 ## Community
-[Discord](https://discord.gg/Gpmj6eCq5u) - To get involved with the Video SDK community, ask questions and share tips.
-[Twitter](https://twitter.com/video_sdk) - To receive updates, announcements, blog posts, and general Video SDK tips.
+- [Discord](https://discord.gg/Gpmj6eCq5u) - To get involved with the Video SDK community, ask questions and share tips.
+- [Twitter](https://twitter.com/video_sdk) - To receive updates, announcements, blog posts, and general Video SDK tips.
