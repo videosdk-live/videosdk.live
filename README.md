@@ -1,5 +1,5 @@
-[![image](https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png)](https://www.linkpicture.com/view.php?img=LPic625178174c78c74113808)
-# Video SDK
+[![videosdk](https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png)](https://www.linkpicture.com/view.php?img=LPic625178174c78c74113808)
+
 [![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20on%20Discord)](https://discord.gg/kgAvyxtTxv)
 [![Register](https://img.shields.io/badge/Contact-Know%20More-blue)](https://app.videosdk.live/signup)
 
