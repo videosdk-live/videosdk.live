@@ -1,4 +1,4 @@
-[![videosdk](https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png)](https://www.linkpicture.com/view.php?img=LPic625178174c78c74113808)
+[![videosdk](https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png)]
 
 [![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20Discord%20Developer%20Community)](https://discord.gg/kgAvyxtTxv)
 [![Register](https://img.shields.io/badge/Contact-Know%20More-blue)](https://app.videosdk.live/signup)
@@ -13,6 +13,20 @@ At Video SDK, we’re building tools to help companies create world-class collab
 - [Flutter SDK Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
 - [Android SDK Example](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
 - [iOS SDK Example](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
+
+| No        | Company           | Price  | Free Minutes every month | 
+| ------------- |:-------------:| -----:| -----------: |
+| 1  | | 
+| 2  | | 
+| 3  | | 
+| 4  | | 
+| 5  | | 
+| 6  | |
+| 7  | |
+| 8  | |
+| 9  | | 
+| 10 | | 
+
 
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
