@@ -14,7 +14,7 @@ At Video SDK, we’re building tools to help companies create world-class collab
 - [Android SDK Example](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
 - [iOS SDK Example](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
 
-| No        | Company           | Price  | Free Minutes every month | 
+| No | Company| Price| Free Minutes every month | 
 | ------------- |:-------------:| -----:| -----------: |
 | 1  | | 
 | 2  | | 
