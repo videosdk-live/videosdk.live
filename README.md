@@ -1,4 +1,8 @@
-[![videosdk](https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png)]
+<p align="center">
+<img width="300" src="(https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png"/>
+</p>
+
+---
 
 [![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20Discord%20Developer%20Community)](https://discord.gg/kgAvyxtTxv)
 [![Register](https://img.shields.io/badge/Contact-Know%20More-blue)](https://app.videosdk.live/signup)
