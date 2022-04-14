@@ -95,18 +95,6 @@
 
 At Video SDK, we’re building tools to help companies create world-class collaborative products with capabilities of live audio/videos, compose cloud recordings/rtmp/hls and interaction APIs
   
-
-## Examples
-- [Prebuilt SDK Examples](https://github.com/videosdk-live/videosdk-rtc-prebuilt-examples)
-- [JavaScript SDK Example](https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example)
-- [React JS SDK Example](https://github.com/videosdk-live/videosdk-rtc-react-sdk-example)
-- [React Native SDK Example](https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example)
-- [Flutter SDK Example](https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example)
-- [Android SDK Example](https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example)
-- [iOS SDK Example](https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example)
-
-
-
 ## Documentation
 [Read the documentation](https://docs.videosdk.live/) to start using Video SDK.
 
