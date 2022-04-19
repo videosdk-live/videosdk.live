@@ -36,7 +36,7 @@
   
   <tr>
     <td> JavaScript </td>
-    <td><a href="https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-javascript</a></td>
+    <td><a href="https://docs.videosdk.live/javascript/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-javascript</a></td>
     <td><a href="https://github.com/videosdk-live/videosdk-rtc-javascript-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-js</a></td>
     <td><a href="https://docs.videosdk.live/javascript/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-js</a></td>
     <td><a href="https://www.npmjs.com/package/@videosdk.live/js-sdk" target="_blank" rel="noopener noreferrer">videosdk-js</a></td>
@@ -47,8 +47,8 @@
  </tr> 
  <tr>
     <td>React</td>
-    <td><a href=https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
-    <td><a href="https://github.com/videosdk-live/videosdk-rtc-react-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
+    <td><a href=https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-react</a></td>
+    <td><a href="https://github.com/videosdk-live/videosdk-rtc-react-sdk-example" target="_blank" rel="noopener noreferrer">docs-react</a></td>
     <td><a href="https://docs.videosdk.live/react/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
     <td><a href="https://www.npmjs.com/package/@videosdk.live/react-sdk" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
     <td><a href="https://www.videosdk.live/prebuilt" target="_blank" rel="noopener noreferrer">💻 react-demo</a></td>
@@ -57,7 +57,7 @@
   
   <tr>
     <td>React Native</td>
-    <td><a href="https://docs.videosdk.live/react-native/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-react-native</a></td>
+    <td><a href="https://docs.videosdk.live/react-native/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-react-native</a></td>
     <td><a href="https://github.com/videosdk-live/videosdk-rtc-react-native-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-r-n</a></td>
     <td><a href="https://docs.videosdk.live/react-native/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-r-n</a></td>
     <td><a href="https://www.npmjs.com/package/@videosdk.live/react-native-sdk" target="_blank" rel="noopener noreferrer">videosdk-r-n</a></td>
@@ -67,7 +67,7 @@
   
    <tr>
     <td>Android</td>
-<td><a href="https://docs.videosdk.live/android/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-android</a></td><td><a href="https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-android</a></td>
+<td><a href="https://docs.videosdk.live/android/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-android</a></td><td><a href="https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-android</a></td>
     <td><a href="https://docs.videosdk.live/android/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-android</a></td>
 <td>-</td>
 <td><a href="https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b" target="_blank" rel="noopener noreferrer">📲  android-demo</a></td>
@@ -76,7 +76,7 @@
   
    <tr>
     <td>iOS</td>
-      <td><a href="https://docs.videosdk.live/ios/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-ios</a></td>
+      <td><a href="https://docs.videosdk.live/ios/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-ios</a></td>
       <td><a href="https://github.com/videosdk-live/videosdk-rtc-ios-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-ios</a></td>
       <td><a href="https://docs.videosdk.live/ios/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-ios</a></td>
       <td>-</td>
@@ -87,7 +87,7 @@
  
  <tr>
  <td>Flutter</td>
-    <td><a href="https://docs.videosdk.live/flutter/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
+    <td><a href="https://docs.videosdk.live/flutter/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-flutter</a></td>
     <td><a href="https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
     <td><a href="https://docs.videosdk.live/flutter/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
     <td><a href="https://pub.dev/packages/videosdk" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
