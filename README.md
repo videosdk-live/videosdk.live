@@ -6,7 +6,7 @@
 
 <p align="center">
   </a>
-  <a href="https://discord.gg/members/kgAvyxtTxv">
+  <a href="https://discord.gg/kgAvyxtTxv">
     <img src="https://img.shields.io/discord/734858252939952248?logo=discord&style=for-the-badge" />
   </a>
   <a href="https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui/issues">
@@ -21,6 +21,7 @@
   <a href="https://github.com/videosdk-live/videosdk.live?tab=stars">
     <img src="https://img.shields.io/github/stars/videosdk-live/videosdk.live?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  
 
 ## Custom SDK
 
