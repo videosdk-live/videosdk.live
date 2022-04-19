@@ -4,8 +4,11 @@
 
 ---
 
-[![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20Discord%20Developer%20Community)](https://discord.gg/kgAvyxtTxv)
-[![Register](https://img.shields.io/badge/Contact-Know%20More-blue)](https://app.videosdk.live/signup)
+[![Discord](https://img.shields.io/discord/876774498798551130?label=Join%20Discord%20Community)](https://discord.gg/kgAvyxtTxv)
+[![Register](https://img.shields.io/badge/Trynow-free-blue)](https://app.videosdk.live/signup)
+[![GitHub stars](https://img.shields.io/github/stars/videosdk-live/videosdk.live?style=flat-square&color=yellow)](https://github.com/videosdk-live/videosdk.live)
+[![Issues](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&color=66bb6a)](https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui/issues)
+
 
 ## Custom SDK
 
