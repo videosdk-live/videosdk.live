@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400" src="https://www.linkpicture.com/q/videosdk_Full-Logo_blue.png"/>
+<img width="400" src="https://static.videosdk.live/videosdk_logo_website_black.png"/>
 </p>
 
 ---
