@@ -60,7 +60,7 @@
  </tr> 
  <tr>
     <td>React</td>
-    <td><a href=https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-react</a></td>
+    <td><a href="https://docs.videosdk.live/react/guide/video-and-audio-calling-api-sdk/concept-and-architecture" target="_blank" rel="noopener noreferrer">docs-react</a></td>
     <td><a href="https://github.com/videosdk-live/videosdk-rtc-react-sdk-example" target="_blank" rel="noopener noreferrer">docs-react</a></td>
     <td><a href="https://docs.videosdk.live/react/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
     <td><a href="https://www.npmjs.com/package/@videosdk.live/react-sdk" target="_blank" rel="noopener noreferrer">videosdk-react</a></td>
